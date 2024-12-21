@@ -1,0 +1,12 @@
+- op: replace
+  path: /metadata/name
+  value: servicemeshoperator3
+- op: replace
+  path: /spec/channel
+  value: candidates
+- op: replace
+  path: /spec/name
+  value: servicemeshoperator3
+- op: replace
+  path: /spec/startingCSV
+  value: servicemeshoperator3.v3.0.0-tp.2
