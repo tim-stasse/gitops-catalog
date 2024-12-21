@@ -4,5 +4,6 @@ kind: Kustomization
 namespace: istio-system
 
 resources:
-  - namespace.yaml
+  - namespaces.yaml
   - istio.yaml
+  - istio-cni.yaml
