@@ -14,6 +14,7 @@ ArgoCD
 ArgoCD's
 Authorino
 AutoCreateUserSchema
+Autoscaler
 Bitnami
 CICD
 CRD
@@ -59,6 +60,7 @@ KieApp
 Koku
 KokuMetricsConfig
 Kubernetes
+Kueue
 Kyverno
 LDAP
 LVM
@@ -67,6 +69,7 @@ Logstash
 MTA
 MachineConfig
 MachineSet
+MetalLB
 Minio
 ModelMesh
 MultiClusterHub
@@ -116,9 +119,12 @@ Tekton
 TempoMonolithic
 TempoStack
 Thanos
+TrustyAI
 UI
+VPA
 VolSync
 Workspaces
+XAI
 Zipkin
 ack
 acm
@@ -204,8 +210,11 @@ libvirt
 lifecycle
 linux
 machineset
+md
+metallb
 microservices
 mig
+modelregistry
 namespace
 namespaced
 namespaces
@@ -241,6 +250,7 @@ rh
 rhel
 rhoai
 rhpds
+rolebinding
 runtime
 sagemaker
 sandboxed
@@ -253,6 +263,7 @@ serverless
 serviceaccount
 servicemesh
 sfdc
+spiffe
 strimzi
 sublicense
 tekton
@@ -261,6 +272,7 @@ thanos
 traefik
 triton
 truly
+trustyai
 vSphere
 vscode
 vsphere
