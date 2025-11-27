@@ -10,4 +10,4 @@ patches:
       group: operators.coreos.com
       kind: Subscription
       name: rhcl-operator
-      namespace: openshift-operators
+      namespace: kuadrant-system
