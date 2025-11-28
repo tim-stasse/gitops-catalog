@@ -5,6 +5,6 @@ resources:
   - namespace.yaml
   - ztunnel.yaml
 
-patches:
+patchesStrategicMerge:
   - istio-cni-patch.yaml
   - istio-patch.yaml
